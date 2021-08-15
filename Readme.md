@@ -1,11 +1,11 @@
-> #Terminal 
+> # Terminal 
 - a simple **Android** shell
 
 ![icon](icon.png "Title")
 
 
 
-> ###About
+> ### About
 
 
 >> Terminal is a **Linux** command line emulator for Android. It works on most Android devices, even if they are not rooted. The command line emulator uses **sh** by default, but users can customize the shell. Be aware that changed the shell on Android will require root.
